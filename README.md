@@ -1,2 +1,2 @@
-# resume
+# Victor Kernes Résumé
 My personal résumé.
